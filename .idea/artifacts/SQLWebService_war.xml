@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SQLWebService:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SQLWebService_war</output-path>
+    <root id="archive" name="SQLWebService_war.war">
+      <element id="artifact" artifact-name="SQLWebService:war exploded" />
+    </root>
+  </artifact>
+</component>
